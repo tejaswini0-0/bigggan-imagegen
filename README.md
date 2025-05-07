@@ -20,12 +20,6 @@
 
 We are using **BigGAN via the `pytorch-pretrained-gans` library** by Luke Melas-Kyriazi, which provides a standardized interface for loading and using pretrained GANs in PyTorch.
 
-This approach allows us to:
-
-- Easily sample class-conditional images.
-- Use a unified API for various GAN architectures.
-- Rapidly prototype and visualize GAN outputs with minimal setup.
-
 ---
 
 ## 🚀 Installation
